@@ -8,7 +8,17 @@
 
 ## 📊 Project Overview
 
-This repository contains a full Excel-based analytics solution designed to explore, visualize, and interpret coffee sales data. It includes the interactive dashboard, source data, documentation, and insights that help stakeholders make data-driven decisions.
+This project features a dynamic **Excel Coffee Sales Dashboard** built to analyze multi-dimensional sales performance. It utilizes **Power Query**, **PivotTables**, **PivotCharts**, and professional dashboard design techniques.
+
+The dashboard allows users to explore insights from:
+
+* Coffee types
+* Countries
+* Roast types
+* Monthly and yearly sales trends
+* Top-performing cities
+* Key performance indicators (KPIs)
+  
 ---
 
 ## ✅ Key Metrics
@@ -22,7 +32,7 @@ This repository contains a full Excel-based analytics solution designed to explo
 
 ## 📈 Dashboard Features
 
-## 🎨 Visualization Description
+## **Visualization Description**
 
 The dashboard uses a clean, modern layout with dark-theme styling to enhance contrast and readability. It includes:
 
